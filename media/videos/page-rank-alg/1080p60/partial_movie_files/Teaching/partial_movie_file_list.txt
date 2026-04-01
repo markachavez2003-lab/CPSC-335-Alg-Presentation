@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/1080p60/partial_movie_files/Teaching/3544663784_3258015166_223132457.mp4'
-file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/1080p60/partial_movie_files/Teaching/260329756_1459395559_642903607.mp4'
-file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/1080p60/partial_movie_files/Teaching/260329756_4170472104_223132457.mp4'
-file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/1080p60/partial_movie_files/Teaching/260329756_2834709167_3241545594.mp4'
-file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/1080p60/partial_movie_files/Teaching/260329756_3184084895_2226536196.mp4'
-file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/1080p60/partial_movie_files/Teaching/260329756_2834709167_2006047686.mp4'
