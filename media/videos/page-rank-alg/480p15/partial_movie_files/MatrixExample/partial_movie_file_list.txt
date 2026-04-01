@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/480p15/partial_movie_files/MatrixExample/1584795214_379634633_223132457.mp4'
+file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/480p15/partial_movie_files/MatrixExample/4072820271_4217992463_972896530.mp4'
+file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/480p15/partial_movie_files/MatrixExample/4072820271_1482285923_3103246851.mp4'
+file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/480p15/partial_movie_files/MatrixExample/4072820271_2844360058_74658212.mp4'
+file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/480p15/partial_movie_files/MatrixExample/4072820271_251913785_2705570192.mp4'
+file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/480p15/partial_movie_files/MatrixExample/4072820271_2844360058_2545493643.mp4'
+file 'file:C:/Users/marka/CPSC-335/CPSC-335-Alg-Presentation/media/videos/page-rank-alg/480p15/partial_movie_files/MatrixExample/4072820271_1326893435_1074315422.mp4'
